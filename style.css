@@ -1,0 +1,10 @@
+.navbar-nav .nav-link{
+font-weight: 600;
+color: white;
+}
+.navbar-nav .nav-link:hover{
+   opacity: 0.80;
+}
+.carousel-item{
+    max-height:calc(100vh - 56px);
+}
